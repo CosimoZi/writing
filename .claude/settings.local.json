@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "WebFetch(domain:www.cooksinfo.com)",
+      "WebFetch(domain:en.wikipedia.org)",
+      "WebFetch(domain:fr.wikipedia.org)",
+      "WebFetch(domain:app.ckbk.com)",
+      "WebFetch(domain:archive.org)",
+      "WebFetch(domain:escoffierathome.com)",
+      "WebFetch(domain:www.gutenberg.org)"
+    ]
+  }
+}
