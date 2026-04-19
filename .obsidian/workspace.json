@@ -89,7 +89,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -209,7 +210,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "55a314b5af11fee0",
+  "active": "982d951fd7565248",
   "lastOpenFiles": [
     "窃国游戏/灵感碎片.md",
     "窃国游戏/3. 第三幕 公义的正午以火焰织成.md",
