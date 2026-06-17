@@ -4,31 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "41a265e09e911f67",
+        "id": "b457538c2ffab10e",
         "type": "tabs",
         "children": [
           {
-            "id": "924a0c468b93e0b3",
+            "id": "91ccebba5113cdf5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "窃国游戏/2. 第二幕 星刺入泪，我悬于血.md",
+                "file": "窃国游戏/1. 第一幕 在那似有若无间的温柔.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. 第二幕 星刺入泪，我悬于血"
-            }
-          },
-          {
-            "id": "3998914dca48c776",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "1. 第一幕 在那似有若无间的温柔"
             }
           }
         ]
@@ -204,35 +194,31 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "924a0c468b93e0b3",
+  "active": "879ab9af8a3152d7",
   "lastOpenFiles": [
+    "窃国游戏/提纲.md",
+    "窃国游戏/2. 第二幕 星刺入泪，我悬于血.md",
+    "窃国_单线路提纲.md",
     "窃国游戏/3. 第三幕 公义的正午以火焰织成.md",
+    "窃国游戏/灵感碎片.md",
     "窃国游戏/1. 第一幕 在那似有若无间的温柔.md",
     "窃国游戏/0. 序幕 谁与渺远的钻石同声而泣.md",
-    "窃国游戏/2. 第二幕 星刺入泪，我悬于血.md",
-    "窃国游戏/提纲.md.tmp.35128.01a916b7c82e",
-    "窃国游戏/灵感碎片.md",
-    "窃国游戏/提纲.md",
     "窃国游戏/演出说明.md",
     "双簧管/笔记.md",
-    "窃国_单线路提纲.md",
-    "窃国游戏/提纲.md.tmp.38380.6ef85eb47950",
-    "窃国游戏/提纲.md.tmp.38380.de4660629a0b",
-    "窃国游戏/提纲.md.tmp.41252.929e86f4efda",
-    "窃国游戏/提纲.md.tmp.26476.d5e3a064ef3f",
-    "窃国游戏/提纲.md.tmp.26476.34619ec9b8b3",
-    "窃国游戏/提纲.md.tmp.26476.96dda00eb925",
-    "窃国游戏/提纲.md.tmp.26476.e7d2a8fb5928",
-    "窃国游戏/提纲.md.tmp.26476.9af6f9161908",
-    "窃国游戏/提纲.md.tmp.26476.7a2dc0d735e0",
-    "窃国游戏/拉瓦锡的头_草稿.md",
+    "双簧管",
+    "未命名.md",
     "CLAUDE.md",
+    "CLAUDE.md.tmp.11452.1775096773674",
     "Ep6.md",
+    "a.txt",
     "密码.md",
     "窃国游戏/春天在我的血液里凋零，永不复还.md",
     "窃国游戏/未命名 1.md",
     "2026-03-07.md",
     "未命名.canvas",
+    "未命名.base",
+    "未命名 1.base",
+    "窃国游戏",
     "2026-03-06.md",
     "欢迎.md"
   ]
