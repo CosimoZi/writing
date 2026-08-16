@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "窃国游戏/1. 第一幕 在那似有若无间的温柔.md",
+                "file": "窃国游戏/2. 第二幕 星刺入泪，我悬于血.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. 第一幕 在那似有若无间的温柔"
+              "title": "2. 第二幕 星刺入泪，我悬于血"
             }
           },
           {
@@ -45,7 +45,8 @@
               "title": "新标签页"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -221,10 +222,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "279f37a4c42c6c26",
+  "active": "5cb0ed72b60a0369",
   "lastOpenFiles": [
-    "窃国游戏/0. 序幕 谁与渺远的钻石同声而泣.md",
     "窃国游戏/1. 第一幕 在那似有若无间的温柔.md",
+    "窃国游戏/0. 序幕 谁与渺远的钻石同声而泣.md",
     "窃国游戏/2. 第二幕 星刺入泪，我悬于血.md",
     "窃国游戏/3. 第三幕 公义的正午以火焰织成.md",
     "窃国游戏/提纲.md",
