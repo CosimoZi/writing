@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "徳",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,8 +76,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -183,8 +182,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,7 +196,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "982d951fd7565248",
+  "active": "3f544d9436fe1b1a",
   "lastOpenFiles": [
     "窃国游戏/1. 第一幕 在那似有若无间的温柔.md",
     "窃国游戏/2. 第二幕 星刺入泪，我悬于血.md",
