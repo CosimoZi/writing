@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "徳",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,7 +76,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -197,7 +198,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5cb0ed72b60a0369",
+  "active": "982d951fd7565248",
   "lastOpenFiles": [
     "窃国游戏/1. 第一幕 在那似有若无间的温柔.md",
     "窃国游戏/2. 第二幕 星刺入泪，我悬于血.md",
